@@ -1,4 +1,4 @@
-# Informe
+# Informe Patrones en Concurrencia
 Programación Concurrente
 Investigación Patrones en la Concurrencia (fase 2)
 
